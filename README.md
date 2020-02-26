@@ -1,7 +1,7 @@
-#PuzzleSolver
+# PuzzleSolver
 This program can solve word puzzle problem.
 
-##how to run it:
+## how to run it:
 First, input
 ```
 make
