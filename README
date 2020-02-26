@@ -1,0 +1,15 @@
+This program can solve word puzzle problem.
+
+how to run it:
+first do make, then ./sample_test.sh the program will try to find wordlist's words in puzzle. and return the position and direction of them. if the word is not in the puzzle, program will return "/*wordstring*/";(0,0);0.
+
+the file submitted:
+1-wordSearch2D.c
+2-puzzle2D.c
+3-puzzle2D.h
+4-makefile
+5-README
+6-puzzle.txt
+7-wordlist.txt
+8-sample_test.sh
+9-expected_soln.txt
